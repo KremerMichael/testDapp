@@ -1,4 +1,4 @@
-import TokenSend from './components/TokenSend.js'
+//import TokenSend from './components/TokenSend.js'
 import Faucet from './components/Faucet.js'
 import './App.css';
 import FCTToken from './artifacts/contracts/FCTToken.sol/FCTToken.json'
