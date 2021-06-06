@@ -4,7 +4,7 @@ import { ethers } from 'ethers'
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 
-const tokenAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+const tokenAddress = "0x853415597603eb95baf6ddf795a85d04cf87964b"
 
 const Faucet = (props) => {
 

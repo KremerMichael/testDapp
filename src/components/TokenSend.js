@@ -3,7 +3,7 @@ import { ethers } from 'ethers'
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 
-const tokenAddress = "{YOUR DEPLOYED TOKEN ADDRESS}"
+const tokenAddress = "0x853415597603eb95baf6ddf795a85d04cf87964b"
 
 const TokenSend = (props) => {
 
